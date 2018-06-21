@@ -1,6 +1,6 @@
 {
     "extensionName": {
-        "message": "Quanto costa questo? 3"
+        "message": "DNS over HTTPS"
     }, 
     "extensionDescriptionIntro": {
         "message": "Mozilla sta conducendo una serie di studi per valutare un servizio in grado di impedire ai provider DNS la raccolta e condivisione di informazioni sulla tua cronologia di navigazione. Ogni utente che partecipa allo studio riceverà una notifica. Quando uno studio è attivo, Firefox utilizzerà automaticamente 1.1.1.1, il servizio di “DNS over HTTPS” di Cloudflare. Questo studio utilizzerà il sistema di Cloudflare, insieme al server DNS selezionato dall’utente o fornito dal provider Internet (ISP), per confrontarne le prestazioni."
